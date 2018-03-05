@@ -3,6 +3,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  color: rgb(23, 205, 230);
 }
 
 .jumbotron {
@@ -11,4 +12,11 @@ body {
   text-align: center;
   border-radius: 20px;
   margin: 5px;
+  color: rgb(85, 17, 17)
+}
+
+#title {
+  animation-name: shake;
+  animation-duration: 3s;
+  animation-iteration-count: 2;
 }
