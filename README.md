@@ -20,4 +20,4 @@ this web page contains a game of probabilty that uses dice rolls to determine a 
 
 - this program was written using the html language.there is some javscript and bootstrap also used.
 
-# link <https://richardwillie.github.io/PingPong/>
+# link <https://richardwillie.github.io/PigDice/>
