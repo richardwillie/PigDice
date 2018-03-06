@@ -14,7 +14,7 @@ this web page contains a game of probabilty that uses dice rolls to determine a 
 
 - Search Richardwillie and access the repositories
 
-- click the pigdice repository
+- click the pig dice repository
 
 - scroll through and open the html file on your browser.
 
